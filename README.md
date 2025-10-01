@@ -19,7 +19,6 @@ Configured **TailwindCSS** for utility-first styling and responsiveness.
 
 Integrated **Storybook** to document components and showcase different states/variants interactively.
 
-Added **Jest + React Testing Library** for basic unit tests.
 
 **2. Component 1: InputField**
 
@@ -87,8 +86,6 @@ Added **unit tests** for:
 
 **DataTable** sorting logic and row selection.
 
-Used **Jest + React Testing Library** to ensure reliability.
-Used Jest + RTL to ensure components work as expected.
 
 **⚙️ Setup Instructions**
 # Clone the repository
