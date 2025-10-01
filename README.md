@@ -1,3 +1,14 @@
+**Project :** **React Component Development**
+
+**Tech Stack :** React · TypeScript · TailwindCSS · Storybook\
+
+**Task :**
+
+Built two React components using React, TypeScript and modern patterns.
+
+And documented them using Storybook.
+
+
 📘 **Description of My Approach**
 
 **1. Project Setup**
