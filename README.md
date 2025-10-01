@@ -1,6 +1,6 @@
 **Project :** **React Component Development**
 
-**Tech Stack :** React · TypeScript · TailwindCSS · Storybook\
+**Tech Stack :** React · TypeScript · TailwindCSS · Storybook
 
 **Task :**
 
